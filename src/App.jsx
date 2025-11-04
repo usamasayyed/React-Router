@@ -1,25 +1,38 @@
-import React from 'react'
-import NavBar from './Components/NavBar'
-import Home from './pages/Home'
-import Products from './pages/Products'
-import { Routes,Route } from 'react-router-dom'
-import About from './pages/About'
-import Contact from './pages/Contact'
+import React from "react";
+import NavBar from "./Components/NavBar";
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import {
+  Route,
+  createBrowserRouter,
+  createRoutesFromElements,
+  RouterProvider,
+} from "react-router-dom";
+import About from "./pages/About";
+import RootLayout from "./RootLayout";
+import ContactLayout from "./ContactLayout";
+import ContactInfo from "./Components/ContactInfo";
+import ContactForm from "./Components/ContactForm";
 
 const App = () => {
-  return (
-    <div>
-     <NavBar/>
-    <Routes>
-      <Route path='/' element={<Home/>}/>
-      <Route path='/Products' element={<Products/>}/>
-      <Route path='/About' element={<About/>}/>
-      <Route path='/Contact' element={<Contact/>}/>
+  const router = createBrowserRouter(
+    createRoutesFromElements(
+      <Route path="/" element={<RootLayout />}>
+        <Route index element={<Home />} />
+        <Route path="Products" element={<Products />} />
+        <Route path="About" element={<About />} />
+        <Route path="Contact" element={<ContactLayout />} > 
 
+        <Route path="info" element={<ContactInfo/>}/>
+        <Route path="from" element={<ContactForm/>}/>
+</Route>
+      </Route>
+    )
+  );
 
-    </Routes>
-    </div>
+  return(
+    <RouterProvider router={router}/>
   )
-}
+};
 
-export default App
+export default App;
