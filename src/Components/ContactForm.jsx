@@ -1,22 +1,22 @@
-import React from 'react'
+import React from "react";
 
 const ContactForm = () => {
   return (
     <div>
-        <form> 
-        <input type='text' placeholder='Name'/>
-        <br/>
+      <form>
+        <input type="text" placeholder="Name" />
+        <br />
 
-        <input type='email' placeholder='email'/>
-<br/>
-        <textarea placeholder='message'></textarea>
-        <br/>
+        <input type="email" placeholder="email" />
+        <br />
+        <textarea placeholder="message"></textarea>
+        <br />
 
-        <button type='submit'>submit</button>
-
-        </form>
+        <button type="submit">submit</button>
+        <br />
+      </form>
     </div>
-  )
-}
+  );
+};
 
-export default ContactForm
+export default ContactForm;
