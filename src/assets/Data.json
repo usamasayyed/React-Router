@@ -4,307 +4,358 @@
       "id": 1,
       "title": "Sr. React Developer",
       "salary": 50000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Lead development of scalable React applications and mentor junior developers."
     },
     {
       "id": 2,
       "title": "Frontend Developer",
       "salary": 42000,
-      "location": "Manchester, UK"
+      "location": "Manchester, UK",
+      "description": "Work with modern frontend technologies including React, Tailwind, and JavaScript."
     },
     {
       "id": 3,
       "title": "Full Stack Engineer",
       "salary": 60000,
-      "location": "Birmingham, UK"
+      "location": "Birmingham, UK",
+      "description": "Develop full-stack web solutions using React, Node.js, and REST APIs."
     },
     {
       "id": 4,
       "title": "Junior Web Developer",
       "salary": 32000,
-      "location": "Leeds, UK"
+      "location": "Leeds, UK",
+      "description": "Assist in building responsive websites using HTML, CSS, and JavaScript."
     },
     {
       "id": 5,
       "title": "React Native Developer",
       "salary": 55000,
-      "location": "Liverpool, UK"
+      "location": "Liverpool, UK",
+      "description": "Build and maintain mobile apps for iOS and Android using React Native."
     },
     {
       "id": 6,
       "title": "Angular Developer",
       "salary": 48000,
-      "location": "Glasgow, Scotland"
+      "location": "Glasgow, Scotland",
+      "description": "Implement front-end modules using Angular and TypeScript frameworks."
     },
     {
       "id": 7,
       "title": "Vue.js Developer",
       "salary": 46000,
-      "location": "Bristol, UK"
+      "location": "Bristol, UK",
+      "description": "Develop clean and efficient user interfaces using Vue.js and modern tools."
     },
     {
       "id": 8,
       "title": "Software Engineer",
       "salary": 62000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Work on both frontend and backend systems with a focus on performance and reliability."
     },
     {
       "id": 9,
       "title": "Backend Node.js Developer",
       "salary": 58000,
-      "location": "Edinburgh, UK"
+      "location": "Edinburgh, UK",
+      "description": "Design APIs and server logic using Node.js, Express, and MongoDB."
     },
     {
       "id": 10,
       "title": "UI/UX Engineer",
       "salary": 52000,
-      "location": "Nottingham, UK"
+      "location": "Nottingham, UK",
+      "description": "Create intuitive and visually appealing interfaces focusing on user experience."
     },
     {
       "id": 11,
       "title": "MERN Stack Developer",
       "salary": 61000,
-      "location": "Birmingham, UK"
+      "location": "Birmingham, UK",
+      "description": "Work on MERN stack applications with focus on scalability and maintainability."
     },
     {
       "id": 12,
       "title": "Frontend Intern",
       "salary": 15000,
-      "location": "Leicester, UK"
+      "location": "Leicester, UK",
+      "description": "Learn and contribute to frontend development using HTML, CSS, and React basics."
     },
     {
       "id": 13,
       "title": "Next.js Developer",
       "salary": 57000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Build high-performance websites using Next.js, React, and server-side rendering."
     },
     {
       "id": 14,
       "title": "React JS Engineer",
       "salary": 54000,
-      "location": "Reading, UK"
+      "location": "Reading, UK",
+      "description": "Collaborate on developing reusable React components for web platforms."
     },
     {
       "id": 15,
       "title": "Web Designer",
       "salary": 38000,
-      "location": "Cardiff, Wales"
+      "location": "Cardiff, Wales",
+      "description": "Design modern, responsive websites using Figma and front-end design tools."
     },
     {
       "id": 16,
       "title": "WordPress Developer",
       "salary": 35000,
-      "location": "Sheffield, UK"
+      "location": "Sheffield, UK",
+      "description": "Develop and maintain WordPress websites including themes and plugins."
     },
     {
       "id": 17,
       "title": "UI Developer",
       "salary": 49000,
-      "location": "Bristol, UK"
+      "location": "Bristol, UK",
+      "description": "Implement responsive user interfaces with clean and accessible design."
     },
     {
       "id": 18,
       "title": "Frontend Engineer",
       "salary": 53000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Develop dynamic web pages and optimize performance for large-scale projects."
     },
     {
       "id": 19,
       "title": "Full Stack JavaScript Developer",
       "salary": 63000,
-      "location": "Glasgow, Scotland"
+      "location": "Glasgow, Scotland",
+      "description": "Build and deploy scalable applications using React, Node.js, and MongoDB."
     },
     {
       "id": 20,
       "title": "React Developer Intern",
       "salary": 20000,
-      "location": "Leeds, UK"
+      "location": "Leeds, UK",
+      "description": "Assist the development team in creating React components and learning industry tools."
     },
     {
       "id": 21,
       "title": "Software Architect",
       "salary": 85000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Design and guide large software systems with a focus on scalability and architecture."
     },
     {
       "id": 22,
       "title": "Junior React Developer",
       "salary": 34000,
-      "location": "Manchester, UK"
+      "location": "Manchester, UK",
+      "description": "Support senior developers in building React-based web applications."
     },
     {
       "id": 23,
       "title": "Frontend Lead",
       "salary": 75000,
-      "location": "Edinburgh, UK"
+      "location": "Edinburgh, UK",
+      "description": "Lead a team of frontend developers and ensure code quality and delivery timelines."
     },
     {
       "id": 24,
       "title": "Web Application Developer",
       "salary": 47000,
-      "location": "Newcastle, UK"
+      "location": "Newcastle, UK",
+      "description": "Create and maintain functional and visually appealing web applications."
     },
     {
       "id": 25,
       "title": "React Engineer",
       "salary": 52000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Develop user-friendly components and ensure high-quality frontend delivery."
     },
     {
       "id": 26,
       "title": "Full Stack PHP Developer",
       "salary": 45000,
-      "location": "Birmingham, UK"
+      "location": "Birmingham, UK",
+      "description": "Build server-side applications and integrate them with modern JavaScript frontends."
     },
     {
       "id": 27,
       "title": "Frontend Specialist",
       "salary": 56000,
-      "location": "Brighton, UK"
+      "location": "Brighton, UK",
+      "description": "Optimize and develop fast, scalable, and accessible web frontends."
     },
     {
       "id": 28,
       "title": "Software Developer",
       "salary": 50000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Contribute to design, development, and deployment of enterprise-level systems."
     },
     {
       "id": 29,
       "title": "React Native Engineer",
       "salary": 60000,
-      "location": "Belfast, UK"
+      "location": "Belfast, UK",
+      "description": "Develop mobile apps using React Native and integrate APIs for smooth functionality."
     },
     {
       "id": 30,
       "title": "UI/UX Developer",
       "salary": 48000,
-      "location": "Liverpool, UK"
+      "location": "Liverpool, UK",
+      "description": "Work on visual designs and implement user interfaces that enhance usability."
     },
     {
       "id": 31,
       "title": "Frontend Web Developer",
       "salary": 43000,
-      "location": "Leeds, UK"
+      "location": "Leeds, UK",
+      "description": "Create pixel-perfect responsive web layouts using modern CSS frameworks."
     },
     {
       "id": 32,
       "title": "Software Engineer Intern",
       "salary": 18000,
-      "location": "Nottingham, UK"
+      "location": "Nottingham, UK",
+      "description": "Learn and assist in writing clean, maintainable, and efficient codebases."
     },
     {
       "id": 33,
       "title": "React Consultant",
       "salary": 70000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Advise teams on React best practices and help optimize existing React projects."
     },
     {
       "id": 34,
       "title": "Next.js Engineer",
       "salary": 58000,
-      "location": "Manchester, UK"
+      "location": "Manchester, UK",
+      "description": "Develop high-performing Next.js web apps with server-side rendering capabilities."
     },
     {
       "id": 35,
       "title": "Angular Frontend Developer",
       "salary": 49000,
-      "location": "Bristol, UK"
+      "location": "Bristol, UK",
+      "description": "Implement robust frontend architectures using Angular and TypeScript."
     },
     {
       "id": 36,
       "title": "React Team Lead",
       "salary": 80000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Supervise React projects, conduct code reviews, and manage team performance."
     },
     {
       "id": 37,
       "title": "Frontend Web Engineer",
       "salary": 54000,
-      "location": "Birmingham, UK"
+      "location": "Birmingham, UK",
+      "description": "Deliver interactive user experiences using React, Redux, and modern frameworks."
     },
     {
       "id": 38,
       "title": "React JS Specialist",
       "salary": 60000,
-      "location": "Cardiff, Wales"
+      "location": "Cardiff, Wales",
+      "description": "Work on React projects with complex UI logic and maintain code efficiency."
     },
     {
       "id": 39,
       "title": "Junior UI Developer",
       "salary": 30000,
-      "location": "Leicester, UK"
+      "location": "Leicester, UK",
+      "description": "Assist in designing and coding clean, visually engaging UI components."
     },
     {
       "id": 40,
       "title": "React Web Developer",
       "salary": 52000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Build and maintain scalable web applications using React and Tailwind CSS."
     },
     {
       "id": 41,
       "title": "Senior Frontend Engineer",
       "salary": 68000,
-      "location": "Manchester, UK"
+      "location": "Manchester, UK",
+      "description": "Design and implement modern frontend architecture using React and GraphQL."
     },
     {
       "id": 42,
       "title": "Software Developer (Remote)",
       "salary": 55000,
-      "location": "Remote, UK"
+      "location": "Remote, UK",
+      "description": "Work remotely on software systems, collaborating with teams via online tools."
     },
     {
       "id": 43,
       "title": "Web UI Engineer",
       "salary": 51000,
-      "location": "Glasgow, Scotland"
+      "location": "Glasgow, Scotland",
+      "description": "Develop accessible web interfaces and ensure cross-browser compatibility."
     },
     {
       "id": 44,
       "title": "React + TypeScript Developer",
       "salary": 58000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Create maintainable React apps using TypeScript and reusable components."
     },
     {
       "id": 45,
       "title": "Frontend Freelancer",
       "salary": 40000,
-      "location": "Bristol, UK"
+      "location": "Bristol, UK",
+      "description": "Deliver high-quality freelance web development services for multiple clients."
     },
     {
       "id": 46,
       "title": "React Software Engineer",
       "salary": 62000,
-      "location": "Leeds, UK"
+      "location": "Leeds, UK",
+      "description": "Develop efficient and responsive React apps with strong coding standards."
     },
     {
       "id": 47,
       "title": "Full Stack Engineer (React + Node)",
       "salary": 67000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Design full-stack systems using React on frontend and Node.js on backend."
     },
     {
       "id": 48,
       "title": "React Native Specialist",
       "salary": 61000,
-      "location": "Manchester, UK"
+      "location": "Manchester, UK",
+      "description": "Focus on mobile performance optimization and cross-platform app delivery."
     },
     {
       "id": 49,
       "title": "Junior Web Engineer",
       "salary": 31000,
-      "location": "Liverpool, UK"
+      "location": "Liverpool, UK",
+      "description": "Support web development projects and gain hands-on coding experience."
     },
     {
       "id": 50,
       "title": "UI Frontend Developer",
       "salary": 50000,
-      "location": "London, UK"
+      "location": "London, UK",
+      "description": "Implement beautiful, responsive designs and collaborate with design teams."
     },
     {
       "id": 51,
       "title": "React Developer (Hybrid)",
       "salary": 56000,
-      "location": "Birmingham, UK"
+      "location": "Birmingham, UK",
+      "description": "Work in a hybrid setup developing robust React-based web applications."
     }
   ]
 }
